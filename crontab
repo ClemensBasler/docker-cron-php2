@@ -1,0 +1,3 @@
+* * * * * echo "hello 1 Minute"
+*/5 * * * * echo "hello 5 Minute"
+# remember to end this file with an empty new line
