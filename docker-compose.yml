@@ -1,0 +1,6 @@
+version: '3'
+services:
+  docker-cron-php:
+    build: .
+    image: docker-cron-php2
+    container_name: docker-cron-php2
